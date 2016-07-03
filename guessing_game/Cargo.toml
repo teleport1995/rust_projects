@@ -4,3 +4,5 @@ version = "0.1.0"
 authors = ["teleport <teleport1995>"]
 
 [dependencies]
+
+rand="0.3.0"
